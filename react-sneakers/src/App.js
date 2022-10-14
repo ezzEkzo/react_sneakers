@@ -1,5 +1,6 @@
 
 function App() {
+    console.log("test commit")
   return (
     <div className="wrapper clear">
       <header className="d-flex justify-between align-center"> 
