@@ -2,10 +2,7 @@
 function App() {
     console.log("test commit")
 
-
-    console.log("sdfsdfsdfsd")
-
-
+    console.log('test - 2')
 
   return (
     <div className="wrapper clear">
