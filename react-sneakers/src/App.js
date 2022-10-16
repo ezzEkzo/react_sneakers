@@ -1,8 +1,7 @@
 
 function App() {
-    console.log("test commit")
 
-    console.log('test - 2')
+  console.log('test - 3')\
 
   return (
     <div className="wrapper clear">
